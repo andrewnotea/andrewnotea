@@ -1,3 +1,4 @@
-# EIVIEN Studio
+# EIVIEN WPPM
 ## Вебсайт-портфоліо
-URL: https://eivien.github.io/
+
+Project URL: https://eivien.github.io/
