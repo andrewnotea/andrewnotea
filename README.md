@@ -1,4 +1,4 @@
-# EIVIEN WPPM
+# Andrewerdna Studio
 ## Вебсайт-портфоліо
 
-Project URL: https://eivien.github.io/
+Project URL: https://andrewerdna.github.io/
