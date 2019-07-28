@@ -29,7 +29,6 @@ body {
   font-weight: 400;
   line-height: var(--line-height);
   color: var(--font-color);
-  /* background-color: var(--backgroung-color); */
 }
 
 .grid {
@@ -43,7 +42,6 @@ body {
 
 header {
   padding: var(--space-size);
-  /* border-bottom: 1px solid var(--border-color); */
 }
 
 .main {
@@ -56,7 +54,6 @@ section {
 
 footer {
   padding: var(--space-size);
-  /* border-top: 1px solid var(--border-color); */
 }
 
 footer > p {
@@ -98,7 +95,6 @@ h3 {
 
 a {
   font-family: "Exo 2", sans-serif;
-  /* font-weight: 700; */
   text-decoration: none;
   color: var(--font-color);
 }
