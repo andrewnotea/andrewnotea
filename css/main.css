@@ -43,7 +43,7 @@ body {
 header {
   padding: var(--space-size);
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: 94px auto;
   grid-template-rows: auto;
   align-items: left;
 }
