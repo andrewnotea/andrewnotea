@@ -1,4 +1,4 @@
 # Andrewnotea Studio
 ## Вебсайт-портфоліо
 
-Project URL: https://andrewnotea.github.io/andrewerdna/
+Project URL: https://andrewnotea.github.io/andrewnotea/
