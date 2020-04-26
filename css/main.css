@@ -44,6 +44,7 @@ body {
   height: 640px;
   background-image: url(img/xl-1.svg), url(img/xl-2.svg);
   background-repeat: no-repeat;
+  z-index: -1;
 }
 
 .grid {
