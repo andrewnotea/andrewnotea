@@ -13,6 +13,7 @@
   --link-hover-color: #ff5722;
   --project-link-hover-color: #ffffff;
   --project-link-hover-background: #ff5722;
+  --transition: calc(1s / 4);
 }
 
 * {
@@ -103,18 +104,19 @@ a {
   font-family: var(--font-exo);
   text-decoration: none;
   color: var(--font-color-dark);
-  transition: 0.25s;
+  transition: var(--transition);
 }
 
 a:hover {
   color: var(--link-hover-color);
-  transition: 0.25s;
+  transition: var(--transition);
 }
 
 .project-link:hover {
   color: var(--project-link-hover-color);
   background-color: var(--project-link-hover-background);
   padding: 4px 8px;
+  transition: var(--transition);
 }
 
 @media (min-width: 0px) and (max-width: 319px) {
