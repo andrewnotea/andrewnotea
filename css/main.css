@@ -81,7 +81,7 @@ h3 {
   margin-bottom: var(--space-size);
 }
 
-header h1 {
+.header__logo {
   margin-bottom: 0px !important;
 }
 
