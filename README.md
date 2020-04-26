@@ -1,4 +1,5 @@
 # Andrewnotea Studio
-## Вебсайт-портфоліо
 
-Project URL: https://andrewnotea.github.io/andrewnotea/
+## Портфоліо
+
+URL: https://andrewnotea.github.io/andrewnotea/
