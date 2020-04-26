@@ -110,6 +110,7 @@ a:hover {
 }
 
 .portfolio__project--link:hover {
+  color: var(--color-light);
   background-color: var(--color-accent);
   padding: 4px 8px;
   transition: var(--transition);
