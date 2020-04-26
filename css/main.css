@@ -103,6 +103,7 @@ a {
   font-family: var(--font-exo);
   text-decoration: none;
   color: var(--font-color-dark);
+  transition: 0.25s;
 }
 
 a:hover {
