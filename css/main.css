@@ -39,10 +39,10 @@ body {
 .decoration__image {
   position: absolute;
   top: var(--space-size);
-  left: var(--space-size);
+  right: var(--space-size);
   width: 580px;
   height: 640px;
-  background-image: url(img/xl-1.svg), url(img/xl-2.svg);
+  background-image: url(/img/xl-1.svg), url(/img/xl-2.svg);
   background-repeat: no-repeat;
   z-index: -1;
 }
