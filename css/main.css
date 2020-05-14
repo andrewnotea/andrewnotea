@@ -50,6 +50,12 @@ header {
 .header__logo {
   margin-bottom: 0px !important;
 }
+
+.header__logo-picture {
+  width: calc(4 * var(--font-size));
+  height: calc(4 * var(--font-size));
+}
+
 .main {
   padding: var(--space-size);
 }
