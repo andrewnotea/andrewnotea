@@ -53,7 +53,7 @@ header {
 
 .header__logo-picture {
   width: calc(4 * var(--font-size));
-  height: calc(4 * var(--font-size));
+  /* height: calc(4 * var(--font-size)); */
 }
 
 .main {
