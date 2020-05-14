@@ -1,9 +1,9 @@
 :root {
   --font-exo: "Exo 2", sans-serif;
   --font-pt: "PT Mono", monospace;
-  --font-size: 1.1111vw;
+  --font-size: calc(12px + 4 * (100vw / 1440));
   --font-weight: 400;
-  --line-height: 1.75;
+  --line-height: 32px;
   --space-size: 16px;
   --color-white: #fafafa;
   --color-black: #212121;
