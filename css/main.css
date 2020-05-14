@@ -25,7 +25,7 @@ body {
   height: 100%;
   background-color: var(--color-light);
   font-family: var(--font-pt);
-  font-size: var(--font-size);
+  font-size: 1rem);
   font-weight: var(--font-weight);
   line-height: var(--line-height);
   color: var(--color-dark);
