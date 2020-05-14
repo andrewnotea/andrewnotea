@@ -131,6 +131,9 @@ a:hover {
 }
 
 @media (min-width: 320px) {
+  .decoration {
+    display: none;
+  }
 }
 
 @media (min-width: 568px) {
