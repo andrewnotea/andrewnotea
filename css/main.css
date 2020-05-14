@@ -68,6 +68,7 @@ footer {
 footer > p {
   font-size: 0.85rem;
 }
+
 h1,
 h2,
 h3 {
@@ -75,21 +76,24 @@ h3 {
   color: var(--color-dark);
   margin-bottom: var(--space-size);
 }
+
 h1 {
   font-size: 2.5rem;
 }
+
 h2 {
   font-size: 2rem;
 }
+
 h3 {
   font-size: 1.5rem;
 }
+
 a {
   font-family: var(--font-exo);
   text-decoration: none;
   color: var(--color-dark);
-
-  transition: var(--transition);
+  transition: calc(8 * var(--transition));
 }
 
 a:hover {
