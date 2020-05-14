@@ -31,22 +31,6 @@ body {
   color: var(--color-dark);
 }
 
-.decoration {
-  position: relative;
-  z-index: -1;
-}
-
-.decoration__image {
-  position: absolute;
-  top: var(--space-size);
-  right: var(--space-size);
-  width: 580px;
-  height: 640px;
-  background-image: url(/img/xl-1.svg), url(/img/xl-2.svg);
-  background-repeat: no-repeat;
-  z-index: -1;
-}
-
 .grid {
   min-height: 100vh;
   padding: 0px var(--space-size);
@@ -55,7 +39,6 @@ body {
   grid-template-rows: auto 1fr auto;
   align-items: center;
 }
-
 header {
   padding: var(--space-size);
   display: grid;
@@ -64,27 +47,21 @@ header {
   align-items: center;
   justify-items: left;
 }
-
 .header__logo {
   margin-bottom: 0px !important;
 }
-
 .main {
   padding: var(--space-size);
 }
-
 section {
   margin-bottom: var(--space-size);
 }
-
 footer {
   padding: var(--space-size);
 }
-
 footer > p {
   font-size: 0.85rem;
 }
-
 h1,
 h2,
 h3 {
@@ -92,23 +69,20 @@ h3 {
   color: var(--color-dark);
   margin-bottom: var(--space-size);
 }
-
 h1 {
   font-size: 2.5rem;
 }
-
 h2 {
   font-size: 2rem;
 }
-
 h3 {
   font-size: 1.5rem;
 }
-
 a {
   font-family: var(--font-exo);
   text-decoration: none;
   color: var(--color-dark);
+
   transition: var(--transition);
 }
 
@@ -116,7 +90,6 @@ a:hover {
   color: var(--color-accent);
   transition: var(--transition);
 }
-
 .portfolio__project--link:hover {
   color: var(--color-white);
   background-color: var(--color-accent);
@@ -125,23 +98,13 @@ a:hover {
 }
 
 @media (max-width: 319px) {
-  .decoration {
-    display: none;
-  }
 }
-
 @media (min-width: 320px) {
-  .decoration {
-    display: none;
-  }
 }
-
 @media (min-width: 568px) {
 }
-
 @media (min-width: 768px) {
 }
-
 @media (min-width: 1024px) {
 }
 @media (min-width: 1280px) {
