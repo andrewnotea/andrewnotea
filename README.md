@@ -1,5 +1,5 @@
-# Andrewnotea Studio
+# Andrewnotea
 
-## Портфоліо
+Портфель проектів
 
 URL: https://andrewnotea.github.io/andrewnotea/
